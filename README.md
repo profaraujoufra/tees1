@@ -5,6 +5,6 @@ Repositório 1 da disciplina de TE em ES do curso de Sistemas de Informação.
 Aqui deve ter um outro texto explicativo
 
 ### Contato?
-fabricio.araujo@ufra.edu.br
+martins.concursos21@gmail.com
 
-*Fabrício Araújo
+*Christian Martins
