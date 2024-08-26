@@ -11,3 +11,5 @@ fabricio.araujo@ufra.edu.br
 ---Lista de alunos----
 Wallace Cardoso - wallaceleonnecardoso@gmail.com
 *Fabrício Araújo
+
+* silvarenato0078@gmail.com
