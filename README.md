@@ -9,4 +9,4 @@ fabricio.araujo@ufra.edu.br
 
 *Fabrício Araújo
 
-*silvarenato0078@gmail.com
+* silvarenato0078@gmail.com
