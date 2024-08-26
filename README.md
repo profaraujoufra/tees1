@@ -6,8 +6,8 @@ Aqui deve ter um outro texto explicativo
 
 ### Contato?
 fabricio.araujo@ufra.edu.br
-wallaceleonnecardoso@gmail.com
+
 
 ---Lista de alunos----
-
+Wallace Cardoso - wallaceleonnecardoso@gmail.com
 *Fabrício Araújo
